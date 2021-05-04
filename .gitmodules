@@ -1,0 +1,6 @@
+[submodule "jp_gene_viz"]
+	path = jp_gene_viz
+	url = https://github.com/simonsfoundation/jp_gene_viz
+[submodule "jp_svg_canvas"]
+	path = jp_svg_canvas
+	url = https://github.com/simonsfoundation/jp_svg_canvas
