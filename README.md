@@ -1,19 +1,17 @@
 
-# ILC regulatory network explorer
+# Macauqe regulatory network explorer
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shelby2919/Macaque_GRN.git/main)
 
-Interactive visualization of transcriptional regulatory networks (TRNs) and gene expression heatmaps from
-Pokrovskii,... Miraldi et al. (2019) "Transcriptional regulatory networks that promote and restrict 
-identities and functions of intestinal innate lymphoid cells".
+Interactive visualization of transcriptional regulatory networks (TRNs) and gene expression heatmaps.
 
 This repository uses Jupyter notebooks to interactively visualize TRNs and gene expression heatmaps 
 with [jp_gene_viz](https://github.com/simonsfoundation/jp_gene_viz)
 
-A [step-by-step ILC network visualization guide](ref/step-by-step-ILCnetwork_viz_guide.pdf) is available.
+A [step-by-step ILC network visualization guide](ref/step-by-step-ILCnetwork_viz_guide.pdf) is available that .
 
 This repository is designed to either run in the cloud using 
-[Binder](https://mybinder.org/v2/gh/flatironinstitute/ILCnetworks/master)
+[Binder](https://mybinder.org/v2/gh/shelby2919/Macaque_GRN.git/main)
 or locally in a encapsulated container using
 [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/)
 to build and run a `docker` container which includes
@@ -25,5 +23,5 @@ and Python 3 to run.  See the
 To build and run the docker image from the command line
 
 ```bash
-jupyter-repo2docker https://github.com/flatironinstitute/ILCnetworks
+jupyter-repo2docker https://github.com/shelby2919/Macaque_GRN
 ```
