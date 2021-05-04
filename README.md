@@ -1,7 +1,7 @@
 
 # ILC regulatory network explorer
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/flatironinstitute/ILCnetworks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shelby2919/Macaque_GRN.git/main)
 
 Interactive visualization of transcriptional regulatory networks (TRNs) and gene expression heatmaps from
 Pokrovskii,... Miraldi et al. (2019) "Transcriptional regulatory networks that promote and restrict 
