@@ -8,7 +8,14 @@ Interactive visualization of transcriptional regulatory networks (TRNs) and gene
 This repository uses Jupyter notebooks to interactively visualize TRNs and gene expression heatmaps 
 with [jp_gene_viz](https://github.com/simonsfoundation/jp_gene_viz)
 
-A [step-by-step ILC network visualization guide](ref/step-by-step-ILCnetwork_viz_guide.pdf) is available that .
+In order to run the notebook, perform the following actions:
+1) Click on launch binder button at top of README section
+2) Navigate to Notebooks file in home folder
+3) Click on Endo Basic or Epi Basic to launch the respective notebook
+4) Run the first two cells of code
+5) The third cell can be run if you only want to visualize the GRN
+6) The fourth cell can be run if you want to generate GRN and heatmap visualization of the data
+7) Enjoy!
 
 This repository is designed to either run in the cloud using 
 [Binder](https://mybinder.org/v2/gh/shelby2919/Macaque_GRN.git/main)
