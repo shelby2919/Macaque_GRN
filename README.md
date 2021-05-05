@@ -1,5 +1,5 @@
 
-# Macauqe regulatory network explorer
+# Macaque regulatory network explorer
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shelby2919/Macaque_GRN.git/main)
 
